@@ -21,7 +21,8 @@ title: Blogs
 
 ### 答辩PPT
 
-- [国家奖学金](https://jiazhenzhao.github.io/blogs/答辩/国奖答辩)
+- [国家奖学金](https://jiazhenzhao.github.io/blogs/答辩/Honor)
 - [统计建模大赛](https://jiazhenzhao.github.io/blogs/答辩/A-17-国民真的健康吗)
+- [Test](https://jiazhenzhao.github.io/blogs/答辩/test)
 
 <br>

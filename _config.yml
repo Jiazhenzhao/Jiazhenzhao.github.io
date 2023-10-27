@@ -7,18 +7,18 @@ url: https://jiazhenzhao.github.io
 # Owner/author information
 owner:
   name: Jiazhen  zhao
-  avatar: jiazhen.jpg
+  avatar: zhengjian.jpg
  # bio:
   email: 873694994@qq.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
+  # twitter: lancecai2002
+  github: ZhaoYingjun12138
   linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -42,10 +42,10 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Fundings
+  #   url: /fundings/
+  # - title: Hobbies
+  #   url: /hobbies/
   - title: Blogs
     url: /blogs/
 

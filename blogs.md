@@ -15,9 +15,13 @@ title: Blogs
 - [数论](https://jiazhenzhao.github.io/blogs/AcWing/MathAlgorithm)
 - [动态规划](https://jiazhenzhao.github.io/blogs/AcWing/DP)
 
-### Labs
+### PaLab
 
--
+- [Pa1](https://jiazhenzhao.github.io/blogs/PaLab/Pa1)
+
+### PythonSpider
+
+- [urllib](https://jiazhenzhao.github.io/blogs/PythonSpider/Urllib)
 
 <br>
 

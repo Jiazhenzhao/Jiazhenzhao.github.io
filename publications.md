@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /file/publications-zh/index.html
-title: Publications-zh
+permalink: /file/publications/index.html
+title: Publications
 ---
 
 ## 数学建模竞赛论文
@@ -14,9 +14,6 @@ title: Publications-zh
 2022年09月“高教社杯”全国大学生数学建模竞赛河南赛区本科组一等奖 (Top 8%)
 <br>
 
-
-
-
 - [国民真的健康吗？——关于中国式现代化下的全民健身体系的统计测度研究](https://jiazhenzhao.github.io/mypaper/modeling/A17.pdf)
 
 <br>
@@ -24,8 +21,6 @@ title: Publications-zh
 <br>
 2023年第九届全国大学生统计建模大赛河南赛区本科组一等奖
 <br>
-
-
 
 - [Analysis and intervention for light pollution](https://jiazhenzhao.github.io/mypaper/modeling/202302COMAP.pdf)
 

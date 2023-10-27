@@ -4,50 +4,48 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Oct 2022 南阳理工学院校**一等奖学金（TOP 2%）**
+- Oct 2023 南阳理工学院**国家奖学金（TOP 0.2%）**
 
 ## Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- 第十四届“蓝桥杯”全国总决赛C++大学B组三等奖
+- 第十四届“蓝桥杯”河南省C++大学B组一等奖
+- 第十三届“蓝桥杯”河南省C++大学B组二等奖
+- 2022年全国大学生数学建模竞赛河南省一等奖
+- 第九届全国大学生统计建模大赛河南省一等奖
+- 第九届中国国际“互联网+”大学生创新创业大赛河南赛区二等奖
+- 第十六届“挑战杯”河南省三等奖
+- 2023年“百度之星”程序设计竞赛河南省银奖
+- 2023年美国大学生数学建模竞赛S奖
+- 2022年APMCM亚太区数学建模大赛全国二等奖
+- 2023年首届大学生算法大赛二等奖
+- 2022年全国大学生算法设计与编程挑战赛（夏季赛）银奖
+- 2023年全国大学生算法设计与编程挑战赛（春季赛）铜奖
+- 2023年第六届大学生数字技能应用大赛全国决赛本研组三等奖
+- 2023年第六届大学生数字技能应用大赛初赛本研组一等奖
+- 2023年全国大学生英语作文大赛河南省二等奖
+- 2023年第四届“CADA”艺术概念设计大赛铜奖
+- 2023年第三届全国大学生人工智能知识竞赛一等奖
+- 2023年第二届全国大学生英语词汇挑战赛一等奖
+- 2023年“BETT杯”全国大学生英语语法大赛决赛二等奖
+- 2023年第一届“ETTBL”杯全国大学生英语词汇挑战赛B组二等奖
+- 2023年首届大学生科技园互联网创新、创意大赛三等奖
 
 ## Honors
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- 河南省“三好学生”
+- 南阳理工学院“社团工作先进个人”
+- 南阳理工学院“三好学生”
+- 南阳理工学院计算机与软件学院“优秀共青团员”
+- 南阳理工学院计算机与软件学院“三好学生”
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+- 累计志愿时长**<font color="red" weight="500px">400+</font>**
+- 2021年寒假优秀志愿者
+- 2022年暑期优秀志愿者
+- 2022年寒假优秀志愿者
+- 2023年暑期优秀志愿者

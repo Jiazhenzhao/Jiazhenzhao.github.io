@@ -6,33 +6,24 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2023
+### 算法笔记
 
-- 21岁，何妨吟啸且徐行<br>
-- [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)<br>
-- [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)
+- **蒟蒻**算法修炼者
+- [基础算法](https://jiazhenzhao.github.io/blogs/AcWing/BasicAlgorithm)
+- [数据结构](https://jiazhenzhao.github.io/blogs/AcWing/DataStructure)
+- [搜索与图论](https://jiazhenzhao.github.io/blogs/AcWing/SearchAndGraph)
+- [数论](https://jiazhenzhao.github.io/blogs/AcWing/MathAlgorithm)
+- [动态规划](https://jiazhenzhao.github.io/blogs/AcWing/DP)
 
-### 2022
+### Labs
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
-
-### 2021
-
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
-
-### 2020
-
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+-
 
 <br>
 
-## Leave a Message
+<!-- ## Leave a Message -->
 
-<br>
+<!-- <br>
 
 {% include disqus.html %} 
 
@@ -40,4 +31,4 @@ title: Blogs
 
 ## Web Star History
 
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
+[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) -->

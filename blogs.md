@@ -23,6 +23,11 @@ title: Blogs
 
 - [urllib](https://jiazhenzhao.github.io/blogs/PythonSpider/Urllib)
 
+### 答辩PPT
+- [国家奖学金](https://jiazhenzhao.github.io/blogs/国奖答辩)
+- [统计建模大赛](https://jiazhenzhao.github.io/blogs/A-17-国民真的健康吗)
+
+
 <br>
 
 <!-- ## Leave a Message -->

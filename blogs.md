@@ -10,22 +10,16 @@ title: Blogs
 
 ### 算法笔记
 
-- **<font color="Red" size="5">蒟蒻</font>**算法修炼者
+- **<font color="Red" size="4">蒟蒻</font>**算法修炼者
 - [基础算法](https://jiazhenzhao.github.io/blogs/AcWing/BasicAlgorithm)
-
-
 
 ### PaLab
 
 - [Pa1](https://jiazhenzhao.github.io/blogs/PaLab/Pa1)
 
-
-
 ### PythonSpider
 
 - [urllib](https://jiazhenzhao.github.io/blogs/PythonSpider/Urllib)
-
-
 
 ### 答辩PPT
 

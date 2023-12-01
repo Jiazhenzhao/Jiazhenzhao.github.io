@@ -24,4 +24,6 @@ title: Publications
 
 
 
-- [蔬菜类商品的自动定价与补货决策](https://jiazhenzhao.github.io/mypaper/modeling/202309CUMCM.pdf)	<br>**赵家振**，赵航，谢艳莹，郭学军（指导老师）
+- [蔬菜类商品的自动定价与补货决策](https://jiazhenzhao.github.io/mypaper/modeling/202309CUMCM.pdf)	<br>
+**赵家振**，赵航，谢艳莹，郭学军（指导老师）<br>
+2022年09月“高教社杯”全国大学生数学建模竞赛河南赛区本科组一等奖 (Top 8%)<br>
